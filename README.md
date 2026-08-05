@@ -46,6 +46,11 @@ cd eval
 python evaluate.py
 ```
 
+### Download Links
+- **File Name**: `checkpoint.pth`
+- **Download URL**: [Baidu Netdisk](https://pan.baidu.com/s/1RD0_6qSv8BmJLOGSAIu1Lg?pwd=rs3h)
+- **Access Code**: `rs3h`
+
 ### Usage Instructions
 1. Download the `checkpoint.pth` file.
 2. Place it in the `./checkpoints/` directory under the project root (create the folder if it does not exist).
