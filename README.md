@@ -46,6 +46,14 @@ cd eval
 python evaluate.py
 ```
 
+### Usage Instructions
+1. Download the `checkpoint.pth` file.
+2. Place it in the `./checkpoints/` directory under the project root (create the folder if it does not exist).
+3. Run the inference or evaluation script, which will automatically load the weights.
+   ```bash
+   # Example command
+   python test.py --weights ./checkpoints/checkpoint.pth
+
 ## 🚀 Quick Start
 
 > ⚠️ **Full code is currently under embargo and will be released after paper acceptance.** 
